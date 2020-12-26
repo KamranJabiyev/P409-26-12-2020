@@ -1,0 +1,6 @@
+E:\P409\C#\InterfaceIndexerExtention\InterfaceIndexerExtention\bin\Debug\InterfaceIndexerExtention.exe.config
+E:\P409\C#\InterfaceIndexerExtention\InterfaceIndexerExtention\bin\Debug\InterfaceIndexerExtention.exe
+E:\P409\C#\InterfaceIndexerExtention\InterfaceIndexerExtention\bin\Debug\InterfaceIndexerExtention.pdb
+E:\P409\C#\InterfaceIndexerExtention\InterfaceIndexerExtention\obj\Debug\InterfaceIndexerExtention.csprojAssemblyReference.cache
+E:\P409\C#\InterfaceIndexerExtention\InterfaceIndexerExtention\obj\Debug\InterfaceIndexerExtention.exe
+E:\P409\C#\InterfaceIndexerExtention\InterfaceIndexerExtention\obj\Debug\InterfaceIndexerExtention.pdb
